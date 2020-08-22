@@ -23,6 +23,12 @@ Note that this is not a GUI plugin so it is not intended/cannot be added to cont
 
 ## Version History:
 
+**Version 1.0.9** - 22 Aug 2020
+Add support to pyton3.
+Fix site parsing issues.
+Fix random sourcecode formatting.
+Update by Dezso
+
 **Version 1.0.8** - 30 May 2018
 Search primarily by isbn. (It's the most specific and accurate data. Try out the Extract ISBN plugin. With that the search is almost flawles)
 If no match found fall back to broader search.
